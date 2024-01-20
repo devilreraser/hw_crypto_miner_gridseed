@@ -1,0 +1,19 @@
+PADS Layout ECO Generator (Version 6.4v) 10.05.2014 13:41:48
+Copyright (c) 2003 - 2008 Mentor Graphics Corp. - All rights reserved
+Command line arguments:  -e D:\Home\GTA\Desktop\Altium work\Greed update\GridSeed_Rev04\PADS\GridSeed_Rev04\ecogen.err -u NOT_CONNECTED -d D:\Home\GTA\Desktop\Altium work\Greed update\GridSeed_Rev04\PADS\GridSeed_Rev04\powerpcb.rep -r pa -a PCB,PART,NET,PIN
+50 msec
+0 msec
+Reading the OLD DESIGN
+There are 522 parts in the design
+There are 141 signals in the design
+There are 2160 pins in the design
+70 msec
+Reading the NEW DESIGN
+There are 519 parts in the design
+There are 141 signals in the design
+There are 2156 pins in the design
+10 msec
+Final cost=343
+Partitioning - 10 msec
+Final Matching - 30 msec
+Deleted pins: 6,  Added pins: 2

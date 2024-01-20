@@ -1,0 +1,64 @@
+*PADS-ECO-V9.5-MILS*
+*REMARK*  old file: D:\Home\GTA\Desktop\Altium work\Greed update\GridSeed_Rev04\PADS\GridSeed_Rev04\ppc380F.asc
+*REMARK*  new file: D:\Home\GTA\Desktop\Altium work\Greed update\GridSeed_Rev04\PADS\GridSeed_Rev04\GridSeed_Rev04.asc
+*REMARK*  created by ECOGEN (Version 6.4v) on 10.05.2014 13:41:48
+
+PART DIFFERENCES
+----------------
+OLD DESIGN                                        NEW DESIGN
+Ref-des	Part-type:Decal                           Ref-des	Part-type:Decal
+C_31   SMD_1210_CAPC3225X279N                     <none>
+C_32   SMD_1210_CAPC3225X279N                     <none>
+C_7   SMD_1210_CAPC3225X279N                      <none>
+
+NET DIFFERENCES
+----------------
+OLD DESIGN                                        NEW DESIGN
+$1N17938                                          $1N17852
+$1N18077                                          $1N17991
+$1N18078                                          $1N17992
+$1N18095                                          $1N18009
+$1N18096                                          $1N18010
+$1N18133                                          $1N18047
+$1N18134                                          $1N18048
+$1N18135                                          $1N18049
+$1N18210                                          $1N18124
+$1N18211                                          $1N18125
+$1N18212                                          $1N18126
+$1N18271                                          $1N18185
+$1N18352                                          $1N18266
+$1N18371                                          $1N18285
+$1N19518                                          $1N19432
+$1N19519                                          $1N19433
+$1N19520                                          $1N19434
+$1N19521                                          $1N19435
+$1N19522                                          $1N19436
+$1N19671                                          $1N19585
+$1N19676                                          $1N19590
+$1N19873                                          $1N19787
+$1N19874                                          $1N19788
+
+SWAPPED GATE DIFFERENCES
+------------------------
+OLD DESIGN                                        NEW DESIGN
+
+SWAPPED PIN DIFFERENCES
+------------------------
+OLD DESIGN                                        NEW DESIGN
+
+
+UNMATCHED NET PINS IN OLD DESIGN
+--------------------------------
+1V                  C_7.1	C_31.1	C_32.1	
+GND                 C_31.2	C_32.2	C_7.2	
+
+UNMATCHED NET PINS IN NEW DESIGN
+--------------------------------
+GND                 U13.4	U13.5	
+
+ATTRIBUTE DIFFERENCES
+---------------------
+Attribute Level	[ OLD DESIGN Parent -> NEW DESIGN Parent ]
+
+          Attribute Name           Old Value                New Value
+

@@ -1,0 +1,3 @@
+[2014-05-10 13.39.21] -------------------- CREATE --------------------
+[2014-05-10 13.39.21] Creating Project Backup infrastructure for project [D:\Home\GTA\Desktop\Altium work\Greed update\GridSeed_Rev04\PADS\GridSeed_Rev04\GridSeed_Rev04.prj].
+[2014-05-10 13.39.22] Successfully created [AutoSave] backup [2014-05-10 13.39.22 - auto.zip] requested by [DND-1285:gta].
